@@ -51,11 +51,6 @@
             <artifactId>hibernate-core</artifactId>
             <version>5.4.32.Final</version>
         </dependency>
-        <dependency>
-            <groupId>org.mongodb</groupId>
-            <artifactId>mongodb-driver</artifactId>
-            <version>3.8.0</version>
-        </dependency>
     </dependencies>
 
     <build>
